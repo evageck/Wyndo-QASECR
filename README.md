@@ -15,4 +15,11 @@
 - **Other Resources:** The lack of a streamlined and secure system leads to poor resource allocation, such as unnecessary spending on crisis management and damage control, rather than on business growth and development.
 
 
-## ISBA Subfields 
+## ISBA Subfields
+We will be focusing on the ISBA subfields of Business Analytics, Application Development, and Development Operations (DevOps):
+
+1. **Business Analytics** involves analyzing data to make strategic decisions. In the context of the Wyndo project, this could involve analyzing user interactions, system performance data, and transactional metrics to enhance decision-making processes.
+
+2. **Application Development** is focused on creating, testing, and deploying applications. For Wyndo, this means developing a scalable and secure web or mobile application that meets the specified business requirements.
+
+3. **DevOps** emphasizes automation and monitoring at all steps of software construction. For Wyndo, DevOps practices are crucial in managing the infrastructure, automating deployments via CI/CD pipelines, and ensuring high availability and minimal downtime.
